@@ -6,6 +6,7 @@ The objective of this project is to observe which variables have a high correlat
 To this end, we have performed a descriptive analysis of the data, a study of the different variables and created a model with test and train data to analyze the results.
 
 To view the project, go to the file Estado_de_Salud_de_un_bebé_durante_el_parto.ipynb
+
 I hope you like it, Greetings!
 
 # Estado de salud de un bebé durante el parto
@@ -16,6 +17,7 @@ El objetivo de este proyecto es observar que variables tienen gran correlación 
 Para ello hemos realizado un análisis descriptivo de los datos, un estudio de las distintas variables y creado un modelo con datos de test y train para analizar los resultados.
 
 Para ver el proyecto, vaya al archivo Estado_de_Salud_de_un_bebé_durante_el_parto.ipynb
+
 Espero que os guste, Saludos!
 
 ![image](https://github.com/AaronFrias/EstadoSaludBebeParto/assets/158283760/7325a258-0df4-4804-9958-0787f42696e4)
